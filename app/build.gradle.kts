@@ -60,4 +60,9 @@ dependencies {
     // Splash Screen
     implementation("androidx.core:core-splashscreen:1.0.1")
 
+    // Navigation Compose
+    implementation("androidx.navigation:navigation-compose:2.8.8")
+
+    // Charty
+    implementation("com.himanshoe:charty:2.1.0-beta03")
 }
