@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <style name="Theme.MySplashScreen" parent="Theme.SplashScreen">
-        <item name="windowSplashScreenBackground">@color/water_blue</item>
-        <item name="windowSplashScreenAnimatedIcon">@drawable/water_drop_ic_removebg</item>
+        <item name="windowSplashScreenBackground">@color/gradiant_background </item>
+        <item name="windowSplashScreenAnimatedIcon">@drawable/animated_logo</item>
         <item name="postSplashScreenTheme">@style/Theme.Hydrated</item>
     </style>
     <style name="Theme.Hydrated" parent="android:Theme.Material.Light.NoActionBar" />
